@@ -3,7 +3,8 @@
   -Welcome to my gitHub  <br/>
   -I caught fire coding  <br/>
   I love applying responsive websites principles and watching my web pages shrink into mobile screens and still looking amazing.         It's oddly satisfying. I think in a way I am kind of like those web pages. I am moldable,
-  but I still keep my creative flare intact.
+  but I still keep my creative flare intact. <br/>
+  <i class="fab fa-facebook">Facebook</i> <Link>https://www.facebook.com/rahul.rakhu69<Link>
 
 <!--
 **RakhuDey/RakhuDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
