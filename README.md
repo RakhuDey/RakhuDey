@@ -1,6 +1,10 @@
 ### Hi 👋
   -I am Rakhu Dey
   -Welcome to my gitHub
+  -I caught fire coding 
+  -I love applying responsive websites principles and watching my web pages shrink into mobile screens and still looking amazing.         It's oddly satisfying. I think in a way I am kind of like those web pages. I am moldable,
+  but I still keep my creative flare intact.
+
 <!--
 **RakhuDey/RakhuDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
